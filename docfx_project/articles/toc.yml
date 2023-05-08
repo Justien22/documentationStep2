@@ -1,0 +1,11 @@
+- name: Vodafone Deutschland GmbH
+  topicUid: VFDE_Landingpage
+  items:
+    - name: DataMiner Footprint Overview
+      topicUid: VFDE_DataMiner_Footprint_Overview
+    - name: Source Management
+      topicUid: VFDE_Source_Management
+    - name: Regional Multiplex Management
+      topicUid: VFDE_Regiomux_Management
+    - name: Instruction Videos
+      topicUid: VFDE_InstructionVideos
